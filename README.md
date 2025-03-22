@@ -2,7 +2,7 @@
 
 # 🖨️ Klipper Configs & Macros
 
-[![Klipper](https://img.shields.io/badge/klipper-gray?style=for-the-badge&logo=github&logoColor=white)](https://www.klipper3d.org/)
+[![Klipper](https://github.com/Klipper3d/klipper/raw/master/docs/img/klipper-logo-small.png)](https://www.klipper3d.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 _Uma coleção colaborativa de configurações e macros para o firmware Klipper_
